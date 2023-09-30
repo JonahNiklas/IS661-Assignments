@@ -4,10 +4,11 @@ Group project for the 4 assignments of IS661-Text-Analytics at the University of
 
 ### Members of the group are
 
-- Laila Albalkhi
+- Artem Bisliouk
 - Jona Frroku
-- Yin-Hsuan Liao
 - Jonah Wiecek
+- Laila Albalkhi
+- Yin-Hsuan Liao
 
 ## Assignment 1
 
